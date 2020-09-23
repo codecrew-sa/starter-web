@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. As stated above, the main purpose
 This is a simple web project to be deployed online or locally.
 
 ## How to Contribute
+
+### Copyright
+
+Copyright 2020 Codecrew
