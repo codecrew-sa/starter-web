@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Doing an emergency fix after the stash
+Adding some extra content
 
 ## Introduction
 
